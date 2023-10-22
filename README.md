@@ -6,3 +6,5 @@ A die is rolled 300 times, and the results are recorded.
 Each player enters the game at the step corresponding to their chosen number. For example, if a player chooses 5, they look at the fifth number in the list of rolls and record it.
 The player then rolls the die and adds the result to their current number. They then record this new number.
 This process continues until all players have the same number.
+
+The question is: how many steps does it take for all players to reach the same number? The answer depends on the random numbers that the players choose and the results of the die rolls. Therefore, to find the exact answer, you must simulate the game and record the results.
